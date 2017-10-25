@@ -1,0 +1,5 @@
+[user]
+	name = trektravel
+	email = jaikant.ads@gmail.com
+[core]
+	excludesfile = /Users/jai/.gitignore_global
